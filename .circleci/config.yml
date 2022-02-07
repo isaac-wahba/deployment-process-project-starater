@@ -9,11 +9,11 @@ jobs:
     docker:
       - image: "cimg/base:stable"
     steps:
+      - browser-tools/install-browser-tools
       - node/install
-      - checkout
       - aws-cli/setup
       - aws-eb/setup
-      - browser-tools/install-browser-tools
+      - checkout
       - run:
           name: Front-End Ready
           command: |
