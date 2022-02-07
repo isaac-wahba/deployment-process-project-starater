@@ -9,7 +9,7 @@
     "build": "ng build",
     "test": "ng test",
     "clean": "rm -rf www/ || true",
-    "deploy" : "npm run clean && npm run build && aws s3 cp --recursive ./www  s3://udagram2511/",
+    "deploy" : "aws s3 cp --recursive ./www  s3://udagram2511/",
     "lint": "ng lint",
     "e2e": "ng e2e"
   },
