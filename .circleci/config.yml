@@ -7,7 +7,7 @@ orbs:
 jobs:
   ready:
     docker:
-      - image: "cimg/base:stable"
+      - image: cimg/node:14.0.1-browsers
     steps:
       - browser-tools/install-browser-tools
       - node/install
