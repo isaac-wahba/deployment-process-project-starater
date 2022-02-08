@@ -4,7 +4,7 @@ A project for learning how to **deploy a full stack application on AWS with CI/D
 The project is a part of an advanced Udacity's Nanodegree which also include courses about backend engineering, building APIs with NodeJs, Express, PostgreSql, and more. 
 
 
-#### Check the live project through the [Project Link](http://udagram2511.s3-website.eu-west-3.amazonaws.com/home)
+#### Check the live project through the [Project Link](http://udagram2511.s3-website.eu-west-3.amazonaws.com)
 
 
 ### Technologies:
