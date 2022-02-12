@@ -37,7 +37,9 @@ The project is a part of an advanced Udacity's Nanodegree which also include cou
 ## Deployed with
 - Circle CI
 ![Successfully Build](https://github.com/isaac-wahba/deployment-process-project-starater/blob/main/Documentation/Important%20Screenshots/Circle%20CI%20Steps.png)
+
 - Circle CI Envs
+
 ![Circle CI Envs](https://github.com/isaac-wahba/deployment-process-project-starater/blob/main/Documentation/Important%20Screenshots/CircleCI%20Project%20Envs.png)
 
 ## License
