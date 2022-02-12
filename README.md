@@ -15,6 +15,10 @@ The project is a part of an advanced Udacity's Nanodegree which also include cou
 - AWS RDS
 - S3.
 
+#### Application Architecture 
+![App Architecture](https://github.com/isaac-wahba/deployment-process-project-starater/blob/main/Documentation/Important%20Screenshots/app%20architecture.png)
+
+
 ## Built With
 
 - [Angular](https://angular.io/) - Single Page Application Framework
