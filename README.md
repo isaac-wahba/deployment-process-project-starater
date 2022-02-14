@@ -25,7 +25,7 @@ The project is a part of an advanced Udacity's Nanodegree which also include cou
 ![AWS Elastic beanstalk](https://github.com/isaac-wahba/deployment-process-project-starater/blob/main/Documentation/Important%20Screenshots/Elastic%20Beanstack.png)
 
 #### Application Architecture 
-![App Architecture](https://github.com/isaac-wahba/deployment-process-project-starater/blob/main/Documentation/Important%20Screenshots/app%20architecture.png)
+![App Architecture](https://github.com/isaac-wahba/deployment-process-project-starater/blob/main/Documentation/Important%20Screenshots/app%20architecture%20with%20Circle%20CI%20included.png)
 
 
 ## Built With
